@@ -10,6 +10,8 @@ const productos = [
 ]
 
 let localProductos= []
+
+
 //EJECUCION ---------------------------------------------------------------------------------------------------
 //CARGO LOS PRODUCTOS EN EL DOM
 CargarDom();
